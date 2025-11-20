@@ -1,0 +1,26 @@
+Analyse des principes SOLID:
+
+S – Single Responsibility
+
+Respecté
+Chaque classe a une seule responsabilité, donc ça suit bien le principe.
+
+O – Open/Closed
+
+Respecté
+On peut ajouter de nouveaux décorateurs ou observateurs sans modifier le code existant.
+
+L – Liskov Substitution
+
+Respecté
+Les sous-classes peuvent remplacer leurs parents sans problème.
+
+I – Interface Segregation
+
+Respecté
+Les interfaces sont petites et ne forcent pas à implémenter des méthodes inutiles.
+
+D – Dependency Inversion
+
+Respecté
+Le code dépend d’interfaces et non de classes concrètes.
